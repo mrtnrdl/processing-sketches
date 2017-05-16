@@ -15,7 +15,7 @@ buildscript {
 
 apply plugin: 'kotlin'
 
-mainClassName = 'de.mrtnrdl.sketches.ApplicationKt'
+mainClassName = 'de.mrtnrdl.sketches.FractalTreeKt'
 
 defaultTasks 'run'
 
